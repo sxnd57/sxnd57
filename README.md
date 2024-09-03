@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, it's a pleasure to meet you! 👋</h1>
 
 <p align="center">
-  🔭 I’m currently working on School
+  🔭 I’m currently study at school
 </p>
 
 <p align="center">🌱 I’m currently learning <strong>Front-End Development</strong> and in the future, I aim to become a <strong>Full-Stack Developer</strong>.</p>
