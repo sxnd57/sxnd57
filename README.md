@@ -10,7 +10,6 @@
 <div align="center">
   
 ## 🛠️ Technologies & Skills
-My toolkit includes, but is not limited to:
 
  #### Languages 
 <div>
