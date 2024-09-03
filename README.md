@@ -16,7 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="TailwindCSS" alt="TailwindCSS" width="80" height="80" />&nbsp;
 </div>
 
 ### Frameworks/Libraries: 
@@ -24,7 +24,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TYPESCRIPT" alt="Typescript" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="NextJS" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="Laravel" width="80" height="80" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="80" height="80" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="80" height="80" />&nbsp;
 </div>
 
 ### Tools & Platforms: 
