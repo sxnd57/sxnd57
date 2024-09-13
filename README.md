@@ -7,9 +7,9 @@
 <p align="center">🌱 I’m currently learning <strong>Front-End Development</strong> and in the future, I aim to become a <strong>Full-Stack Developer</strong>.</p>
 <p align="center">⚡ Fun fact: I enjoy beauty and perfection.</p>
 
-/*  <div align="center">
+ <div align="center">
     
-  ## 🛠️ Technologies & Skills
+ <!--- ## 🛠️ Technologies & Skills
   
    #### Languages 
   <div>
@@ -38,4 +38,4 @@
   
   <br>
   </div>
-  */
+-->
