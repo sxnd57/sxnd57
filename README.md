@@ -9,7 +9,7 @@
 
  <div align="center">
     
- <!--- ## 🛠️ Technologies & Skills
+ ## 🛠️ Technologies & Skills
   
    #### Languages 
   <div>
@@ -38,4 +38,3 @@
   
   <br>
   </div>
--->
